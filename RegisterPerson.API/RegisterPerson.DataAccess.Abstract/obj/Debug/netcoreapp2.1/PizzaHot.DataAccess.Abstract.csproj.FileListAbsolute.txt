@@ -1,0 +1,12 @@
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\bin\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.deps.json
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\bin\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.dll
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\bin\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.pdb
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\bin\Debug\netcoreapp2.1\PizzaHot.Domain.Model.dll
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\bin\Debug\netcoreapp2.1\PizzaHot.Domain.Model.pdb
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\obj\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.csprojAssemblyReference.cache
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\obj\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.csproj.CoreCompileInputs.cache
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\obj\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.AssemblyInfoInputs.cache
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\obj\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.AssemblyInfo.cs
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\obj\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.csproj.CopyComplete
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\obj\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.dll
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.DataAccess.Abstract\obj\Debug\netcoreapp2.1\PizzaHot.DataAccess.Abstract.pdb

@@ -1,0 +1,6 @@
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.API\obj\Debug\netcoreapp2.1\PizzaHot.API.csprojAssemblyReference.cache
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.API\obj\Debug\netcoreapp2.1\PizzaHot.API.csproj.CoreCompileInputs.cache
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.API\obj\Debug\netcoreapp2.1\PizzaHot.API.RazorAssemblyInfo.cache
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.API\obj\Debug\netcoreapp2.1\PizzaHot.API.RazorAssemblyInfo.cs
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.API\obj\Debug\netcoreapp2.1\PizzaHot.API.AssemblyInfoInputs.cache
+C:\Estudos\Projetos\pizza_net_core\RegisterPerson.API\RegisterPerson.API\obj\Debug\netcoreapp2.1\PizzaHot.API.AssemblyInfo.cs
